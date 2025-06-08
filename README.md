@@ -1,6 +1,9 @@
 # application_project
 
-A new Flutter project.
+This is a mobil application developed using Flutter framework. The purpose of the project is to create an application that can be used by end users to get the plants that can be grown in each regoin at Sultanet of Oman. Also, it gives a full instruction by images, videos, and text to care of plants from different types. Moreover, there is option for buying plant seeds and deliver it to distenation. 
+
+![My Project Logo](assets/Ezra3ha.PNG)
+
 
 ## Getting Started
 
